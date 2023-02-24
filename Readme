@@ -1,1 +1,41 @@
+Screenshot realted to the assignment 
+installation using comand promopt
+
+/home/knoldus/Pictures/Screenshots/Screenshot from 2023-02-24 01-09-20.png
+/home/knoldus/Pictures/Screenshots/Screenshot from 2023-02-24 09-44-59.png
+
+working of plugins:-
+
+/home/knoldus/Pictures/Screenshots/Screenshot from 2023-02-24 15-00-43.png
+/home/knoldus/Pictures/Screenshots/Screenshot from 2023-02-24 18-26-27.png
+
+
+Code screen shot:-
+/home/knoldus/Pictures/Screenshots/Screenshot from 2023-02-24 18-35-38.png
+
+
+
+
+
+Explanination:---
+1.Create the project using command prompt using the command   ( mvn archetype:generaten )
+2.Moving a head there will we will provide filters as 2007
+3 Then group id as the name of the comany or the organisation under which we are in 
+4.Then Artifact id :-   for example--maven.demo
+5.Then provide pacakge name after that .
+6.Create one chaild module name is "tringmanipulation "
+7.The inside that two more sub module "string-api" and "string-impl"
+8.created a  java class in "string-api" and implimented two functions reverse and get-length
+9.Call it in other  module called "string-impl".
+
+
+Added dependencies as well:-
+ maven-checkstyle-plugin
+- spotbugs-maven-plugin
+- maven-surefire-plugin
+- exec-maven-plugin
+
+
+
+
 
